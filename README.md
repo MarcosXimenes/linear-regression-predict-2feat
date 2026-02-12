@@ -1,4 +1,4 @@
-# Linear Regression -- Prediction with 2 Features
+# Linear Regression — Prediction with 2 Features
 
 A Jupyter Notebook project demonstrating how to build a Linear Regression model using two input features to make predictions. This project covers the fundamentals of regression analysis, from data exploration to model evaluation.
 
@@ -6,11 +6,11 @@ A Jupyter Notebook project demonstrating how to build a Linear Regression model 
 
 This project walks through a complete Machine Learning workflow:
 
-- **Data Exploration** -- Understanding the dataset and the relationship between variables.
-- **Data Preprocessing** -- Preparing the data for modeling.
-- **Model Training** -- Building a Linear Regression model with two features.
-- **Evaluation** -- Assessing model performance using regression metrics.
-- **Visualization** -- Plotting results and predictions.
+- **Data Exploration** — Understanding the dataset and the relationship between variables.
+- **Data Preprocessing** — Preparing the data for modeling.
+- **Model Training** — Building a Linear Regression model with two features.
+- **Evaluation** — Assessing model performance using regression metrics.
+- **Visualization** — Plotting results and predictions.
 
 ## Tech Stack
 
